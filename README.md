@@ -1,4 +1,5 @@
-# bitcamp_finalproject![WITH CLASS 회원가입](https://user-images.githubusercontent.com/85731629/147444327-eb7e7f93-8b46-4873-b808-a78a7c642cc9.jpeg)
+# bitcamp_finalproject
+![WITH CLASS 회원가입](https://user-images.githubusercontent.com/85731629/147444327-eb7e7f93-8b46-4873-b808-a78a7c642cc9.jpeg)
 ![WITH CLASS 클래스 등록](https://user-images.githubusercontent.com/85731629/147444337-4028eb80-4592-48f5-aea7-3c707c5b913e.jpeg)
 ![WITH CLASS 검색결과](https://user-images.githubusercontent.com/85731629/147444350-fdb13f90-f2a8-4b89-af54-955f0bb9423b.jpeg)
 ![WITH CLASS 나의정보페이지](https://user-images.githubusercontent.com/85731629/147444354-42e4a462-d81d-4ef5-9a5b-9edf175a5df3.jpeg)
